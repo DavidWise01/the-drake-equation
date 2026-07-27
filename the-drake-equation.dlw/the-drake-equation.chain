@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1514
 slug  : the-drake-equation
-seal  : efbc0f9e5fa6505f1a03244b071233d9b40be10df3f766643727ddd2922b710b
-prev  : 2a92e3ae8a01c6f3a59d7e387ad9a40252a97b0df878b7831a194045e31236ad
-link  : ab1af532d81a237467bfd1d390cba029c3f8a787280bd1a3e0df33ff8df6bd22
-head  : 4d57c7669fef8fdf0a63a98919e51156a3ada1dde1f92fe3b3d919a561d19e2f
+seal  : cd437a614db60282e8d90ad778e1f8a4219739293ff296990da40a416f4a5b9f
+prev  : ad6da7358f285e980d54939a670c3a9935785a4fd0fdb6e9c6178bb7fb69596a
+link  : f463a6933fb415ce67b39aebc512bc23a6e1d3f7be5aaacffa0b3bde273abc5e
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
